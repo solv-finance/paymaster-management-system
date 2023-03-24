@@ -71,9 +71,11 @@ Fourth month: Deployment of dApps, writing introductory articles, introducing th
 
 ## ****Budget****
 
-> Please provide an requested amount and outline of how the grant will be used. A detailed budget proposal would be helpful and some item you could include are:
+> Requested grant amount and how this will be used ：
 
-Requested grant amount and how this will be used ：35.25 K USD
+35.25 K USD
+
+> Please provide an requested amount and outline of how the grant will be used. A detailed budget proposal would be helpful and some item you could include are:
 
 - Principle Researchers Costs
     
