@@ -34,7 +34,7 @@ Design and explanation documents, smart contracts, Frontend dApp, Subgraphs of t
 
 > Please list their names and roles for the project as well as how many hours per month will each person work on this project?
 
-Will Wang, Yi Cai, Mike Meng, Zhongxin Wu, AlvisDu, Ryan Chow, Jianyu Li, Jing Xia
+Will Wang (@Will42W), Yi Cai (@YeeTsai), Mike Meng, Zhongxin Wu (@nerverwind), AlvisDu (@AlvisDu), Ryan Chow, Jianyu Li, Jing Xia
 
 ## ****Background****
 
