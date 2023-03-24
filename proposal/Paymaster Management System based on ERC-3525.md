@@ -32,7 +32,7 @@ Design and explanation documents, smart contracts, Frontend dApp, Subgraphs of t
 
 8
 
-Please list their names and roles for the project as well as how many hours per month will each person work on this project?
+> Please list their names and roles for the project as well as how many hours per month will each person work on this project?
 
 Will Wang, Yi Cai, Mike Meng, Zhongxin Wu, AlvisDu, Ryan Chow, Jianyu Li, Jing Xia
 
@@ -73,17 +73,17 @@ Fourth month: Deployment of dApps, writing introductory articles, introducing th
 
 > Requested grant amount and how this will be used ：
 
-35.25 K USD
+ **35.25 K USD**
 
 > Please provide an requested amount and outline of how the grant will be used. A detailed budget proposal would be helpful and some item you could include are:
 
 - Principle Researchers Costs
     
-    $15K
+    **$15K**
     
 - Other Staff Costs
     
-    $6K
+    **$6K**
     
 - Hardware Costs
     
@@ -91,7 +91,7 @@ Fourth month: Deployment of dApps, writing introductory articles, introducing th
     
 - Software Costs
     
-    $14k (gas fee, smart contract audit, cloud services, etc.)
+    **$14k** (gas fee, smart contract audit, cloud services, etc.)
     
 - Data Collection Costs
     
